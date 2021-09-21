@@ -1,0 +1,17 @@
+
+
+   1- https://formsmarts.com/form/yu?mode=h5 sitesini açın
+   2- Business i çekleyin.  id=u_kPS_4586_0
+      input[id$='4586_0']    input#u_fH7_4586_0
+
+   3- discover XYZ ye tıklatın ve online Advertising i seçin
+      select id=u_kPS_4588                      select[name='u_1zo_4588']
+      option[value='Online Advertising']
+
+
+   4- Every day i seçin  input id=u_kPS_89585_0    input#u_1zo_89585_0
+   5- Good u seçin input id=u_kPS_4589_0          input#u_1zo_4589_0
+
+   6- using XYZ yi tıklatın ve 3.seçeneği seçin   select#u_1zo_4597
+      select  id=u_kPS_4597
+      select[id$='4597'] > :nth-child(4)
